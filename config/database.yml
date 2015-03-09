@@ -1,0 +1,12 @@
+development:
+  adapter: mysql
+  database: eshop3_development
+  username: eshop3
+  password: eshop3
+
+test:
+  adapter: mysql
+  database: eshop3_development
+  username: eshop3
+  password: eshop3
+
